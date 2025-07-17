@@ -1,0 +1,225 @@
+//
+// Animation
+//
+
+// Base
+.animation {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+// Slide In Down
+@keyframes animationSlideInDown {
+    from {
+        transform: translate3d(0, -100%, 0);
+        visibility: visible;
+    }
+
+    to {
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+.animation-slide-in-down {
+    animation-name: animationSlideInDown;
+}
+
+// Slide In Up
+@keyframes animationSlideInUp {
+    from {
+        transform: translate3d(0, 100%, 0);
+        visibility: visible;
+    }
+
+    to {
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+.animation-slide-in-up {
+    animation-name: animationSlideInUp;
+}
+
+// Fade In
+@keyframes animationFadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.animation-fade-in {
+    animation-name: animationFadeIn;
+}
+
+// Fade Out
+@keyframes animationFadeOut {
+    from {
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0;
+    }
+}
+.animation-fade-out {
+    animation-name: animationFadeOut;
+}
+
+// Blink
+.animation-blink {
+    animation: animationBlink 1s steps(5, start) infinite;
+}
+
+@keyframes animationBlink {
+    to {
+        visibility: hidden;
+    }
+}
+
+
+
+
+.scale-animation {
+    animation: scaleAnimation 1.5s linear;
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+  
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes scaleAnimation {
+    0% {
+      transform: scale(0);
+    }
+  
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  @keyframes rotateAnimation {
+    0% {
+      transform: rotate(0deg);
+    }
+  
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .rotate-animation {
+    animation: rotateAnimation 2s ease-in-out;
+  }
+  
+  .fade-in-animation {
+    animation: fadeIn 2s ease-in-out;
+  }
+  
+  .bounce-animation {
+    animation: bounceAnimation 0.8s ease-in-out;
+  }
+  
+  .slide-in-animation {
+    animation: slideInAnimation 1.2s ease-in-out;
+  }
+  
+  .pulse-animation {
+    animation: pulseAnimation 1.5s linear infinite;
+  }
+  
+  .shake-animation {
+    animation: shakeAnimation 0.5s ease-in-out;
+  }
+  
+  .mat-h2,
+  .mat-title,
+  .mat-typography h2 {
+    font: 50 10px/5px Roboto, "Helvetica Neue", sans-serif !important;
+    letter-spacing: normal !important;
+    margin: 0px !important;
+  }
+  
+  @keyframes spinAnimation {
+    0% {
+      transform: rotate(0deg);
+    }
+  
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @keyframes shakeAnimation {
+    0% {
+      transform: translateX(0);
+    }
+  
+    25% {
+      transform: translateX(-10px);
+    }
+  
+    50% {
+      transform: translateX(10px);
+    }
+  
+    75% {
+      transform: translateX(-10px);
+    }
+  
+    100% {
+      transform: translateX(0);
+    }
+  }
+  
+  @keyframes pulseAnimation {
+    0% {
+      transform: scale(1);
+    }
+  
+    50% {
+      transform: scale(1.1);
+    }
+  
+    // 100% {
+    //   transform: scale(1);
+    // }
+  }
+  
+  @keyframes slideInAnimation {
+    0% {
+      transform: translateX(-100%);
+    }
+  
+    100% {
+      transform: translateX(0);
+    }
+  }
+  
+  @keyframes bounceAnimation {
+  
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+      transform: translateY(0);
+    }
+  
+    40% {
+      transform: translateY(-30px);
+    }
+  
+    60% {
+      transform: translateY(-15px);
+    }
+  }

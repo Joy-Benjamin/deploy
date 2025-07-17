@@ -1,0 +1,112 @@
+[
+  {
+    "id": "motor",
+    "svgUrl": "./assets/animationicon/motor.svg",
+    "imageUrl": "./assets/animationicon/motor.png",
+    "title": "motor",
+    "description": "motor"
+  },
+
+  {
+    "id": "fan",
+    "svgUrl": "./assets/animationicon/fansvg.svg",
+    "imageUrl": "./assets/animationicon/fanimage.png",
+    "title": "fan",
+    "description": "fan"
+  },
+
+  {
+    "id": "sjoin",
+    "svgUrl": "./assets/animationicon/sjoin.svg",
+    "imageUrl": "./assets/animationicon/sjoini.png",
+    "title": "sjoin",
+    "description": "sjoin"
+  },
+
+  {
+    "id": "joinstop",
+    "svgUrl": "./assets/animationicon/joinstop.svg",
+    "imageUrl": "./assets/animationicon/joinstopi.png",
+    "title": "joinstop",
+    "description": "joinstop"
+  },
+  {
+    "id": "reversejoin",
+    "svgUrl": "./assets/animationicon/reversejoin.svg",
+    "imageUrl": "./assets/animationicon/reversejoini.png",
+    "title": "Join ",
+    "description": "Join"
+  },
+  {
+    "id": "pipel",
+    "svgUrl": "./assets/animationicon/joinl.svg",
+    "imageUrl": "./assets/animationicon/joinli.png",
+    "title": "pipel",
+    "description": "pipel"
+  },
+  {
+    "id": "pipel",
+    "svgUrl": "./assets/animationicon/joinll.svg",
+    "imageUrl": "./assets/animationicon/joinll.png",
+    "title": "pipel",
+    "description": "pipel"
+  },
+  {
+    "id": "pipel",
+    "svgUrl": "./assets/animationicon/stjoin.svg",
+    "imageUrl": "./assets/animationicon/stjoin.png",
+    "title": "pipel",
+    "description": "pipel"
+  },
+  {
+    "id": "pipel",
+    "svgUrl": "./assets/animationicon/circlejoin.svg",
+    "imageUrl": "./assets/animationicon/circlejoin.png",
+    "title": "pipel",
+    "description": "pipel"
+  },
+  {
+    "id": "pipel",
+    "svgUrl": "./assets/animationicon/fourjoint.svg",
+    "imageUrl": "./assets/animationicon/fourjoint.png",
+    "title": "pipel",
+    "description": "pipel"
+  },
+  {
+    "id": "pipel",
+    "svgUrl": "./assets/animationicon/threejoint.svg",
+    "imageUrl": "./assets/animationicon/threejoint.png",
+    "title": "pipel",
+    "description": "pipel"
+  },
+
+  {
+    "id": "pipel",
+    "svgUrl": "./assets/animationicon/rightsidel.svg",
+    "imageUrl": "./assets/animationicon/rightsidel.png",
+    "title": "pipel",
+    "description": "pipel"
+  },
+  {
+    "id": "threesiderect",
+    "svgUrl": "./assets/animationicon/threesiderect.svg",
+    "imageUrl": "./assets/animationicon/threesiderect.png",
+    "title": "pipel",
+    "description": "pipel"
+  },
+
+  {
+    "id": "leftsiderl",
+    "svgUrl": "./assets/animationicon/leftsiderl.svg",
+    "imageUrl": "./assets/animationicon/leftsiderl.png",
+    "title": "pipel",
+    "description": "pipel"
+  },
+  {
+    "id": "leftsiderl",
+    "svgUrl": "./assets/animationicon/threesidereversel.svg",
+    "imageUrl": "./assets/animationicon/threesidereversel.png",
+    "title": "pipel",
+    "description": "pipel"
+  }
+]

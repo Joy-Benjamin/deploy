@@ -1,0 +1,44 @@
+[
+  {
+    "id": "motor",
+    "imageUrl": "./assets/media/magicboardImage/magicOne.png",
+    "title": "Machine Monitoring System",
+    "description": "A Machine Monitoring System tracks industrial machinery performance in real-time to boost efficiency and reduce downtime."
+  },
+  {
+    "id": "motor",
+    "imageUrl": "./assets/media/magicboardImage/airhandlingunit.jpg",
+    "title": "Advanced Air Handling Unit Control",
+    "description": "This system offers precise management of air handling units, displaying real-time environmental conditions and operational status. Ideal for maintaining optimal indoor air quality and energy efficiency."
+  },
+  {
+    "id": "motor",
+    "imageUrl": "./assets/media/magicboardImage/magicThird.png",
+    "title": " Boiler Plant",
+    "description": "A Boiler Plant provides centralized steam or hot water generation for heating and industrial applications."
+  },
+  {
+    "id": "motor",
+    "imageUrl": "./assets/media/magicboardImage/magicFive.png",
+    "title": "Ground Assessment System",
+    "description": "The Ground Assessment System monitors and analyzes form data for efficient ground assessment operations."
+  },
+  {
+    "id": "motor",
+    "imageUrl": "./assets/media/magicboardImage/magicTwo.png",
+    "title": "Robot Heat Monitoring System",
+    "description": "The Robot Heat Monitoring System continuously monitors and manages heat levels in robots for optimal performance and safety."
+  },
+  {
+    "id": "motor",
+    "imageUrl": "./assets/media/magicboardImage/microsoft.png",
+    "title": "Solar Plant",
+    "description": "A Solar Plant harnesses sunlight to generate clean electricity, contributing to sustainable energy production and environmental preservation."
+  },
+  {
+    "id": "motor",
+    "imageUrl": "./assets/media/magicboardImage/globlin.png",
+    "title": "Fire Hydrant System",
+    "description": "A Fire Hydrant System is a network of pipes, valves, and hydrants designed to provide a readily available water supply for firefighting purposes in urban and industrial areas."
+  }
+]

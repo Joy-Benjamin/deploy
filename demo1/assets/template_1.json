@@ -1,0 +1,2238 @@
+{
+    "PK": "newdash",
+    "SK": "instagram_1",
+    "board_type": "RDT",
+    "description": "newsstgtgg123",
+    "grid_details": [
+     {
+      "backgroundcolor": "#E7505A",
+      "client_id_tile": null,
+      "cols": 5,
+      "communication_channel_tile": null,
+      "constant_tile": 46,
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_tile": null,
+      "decimal_point": null,
+      "device": "MG2GFRP92",
+      "device_equation_tile": null,
+      "equation_textarea_tile": null,
+      "gauge": "",
+      "graph": "",
+      "grid_type": "tile",
+      "heatmap": "",
+      "host_http_tile": null,
+      "host_tile": null,
+      "icon": "fa fa-cogs",
+      "icon_size": "50px",
+      "json_tile": null,
+      "label_font_size": "14px",
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_tile": null,
+      "parameter": "test1015",
+      "parameter_equation_tile": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_tile": null,
+      "port_http_tile": null,
+      "port_tile": null,
+      "req_body_tile": null,
+      "rows": 3,
+      "ssl_tile": null,
+      "text": "R1 Temp",
+      "topic_tile": null,
+      "type": "Random",
+      "unit_type": "Default",
+      "username_tile": null,
+      "value_font_size": "40px",
+      "x": 0,
+      "y": 0
+     },
+     {
+      "backgroundcolor": "#1BA39C",
+      "client_id_tile": null,
+      "cols": 5,
+      "communication_channel_tile": null,
+      "constant_tile": 90,
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_tile": null,
+      "decimal_point": null,
+      "device": "MG2GFRP4",
+      "device_equation_tile": null,
+      "equation_textarea_tile": null,
+      "gauge": "",
+      "graph": "",
+      "grid_type": "tile",
+      "heatmap": "",
+      "host_http_tile": null,
+      "host_tile": null,
+      "icon": "fa fa-cogs",
+      "icon_size": "50px",
+      "json_tile": null,
+      "label_font_size": "14px",
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_tile": null,
+      "parameter": "p1",
+      "parameter_equation_tile": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_tile": null,
+      "port_http_tile": null,
+      "port_tile": null,
+      "req_body_tile": null,
+      "rows": 3,
+      "ssl_tile": null,
+      "text": "R2 Temp",
+      "topic_tile": null,
+      "type": "Random",
+      "unit_type": "Default",
+      "username_tile": null,
+      "value_font_size": "40px",
+      "x": 5,
+      "y": 0
+     },
+     {
+      "backgroundcolor": "#E7505A",
+      "client_id_tile": null,
+      "cols": 5,
+      "communication_channel_tile": null,
+      "constant_tile": 14,
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_tile": null,
+      "decimal_point": null,
+      "device": "MG2GFRP4",
+      "device_equation_tile": null,
+      "equation_textarea_tile": null,
+      "gauge": "",
+      "graph": "",
+      "grid_type": "tile",
+      "heatmap": "",
+      "host_http_tile": null,
+      "host_tile": null,
+      "icon": "bi bi-compass",
+      "icon_size": "50px",
+      "json_tile": null,
+      "label_font_size": "14px",
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_tile": null,
+      "parameter": "p1",
+      "parameter_equation_tile": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_tile": null,
+      "port_http_tile": null,
+      "port_tile": null,
+      "req_body_tile": null,
+      "rows": 3,
+      "ssl_tile": null,
+      "text": "R3 Temp",
+      "topic_tile": null,
+      "type": "Random",
+      "unit_type": "Default",
+      "username_tile": null,
+      "value_font_size": "40px",
+      "x": 10,
+      "y": 0
+     },
+     {
+      "backgroundcolor": "#F4D03F",
+      "client_id_tile": null,
+      "cols": 5,
+      "communication_channel_tile": null,
+      "constant_tile": 18,
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_tile": null,
+      "decimal_point": null,
+      "device": "MG2GFRP1",
+      "device_equation_tile": null,
+      "equation_textarea_tile": null,
+      "gauge": "",
+      "graph": "",
+      "grid_type": "tile",
+      "heatmap": "",
+      "host_http_tile": null,
+      "host_tile": null,
+      "icon": "fa fa-cogs",
+      "icon_size": "50px",
+      "json_tile": null,
+      "label_font_size": "14px",
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_tile": null,
+      "parameter": "P1",
+      "parameter_equation_tile": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_tile": null,
+      "port_http_tile": null,
+      "port_tile": null,
+      "req_body_tile": null,
+      "rows": 3,
+      "ssl_tile": null,
+      "text": "R4 Temp",
+      "topic_tile": null,
+      "type": "Random",
+      "unit_type": "None",
+      "username_tile": null,
+      "value_font_size": "40px",
+      "x": 15,
+      "y": 0
+     },
+     {
+      "backgroundcolor": "#22313F",
+      "client_id_tile": null,
+      "cols": 5,
+      "communication_channel_tile": null,
+      "constant_tile": 69,
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_tile": null,
+      "decimal_point": null,
+      "device": "MG2GFRP92",
+      "device_equation_tile": null,
+      "equation_textarea_tile": null,
+      "gauge": "",
+      "graph": "",
+      "grid_type": "tile",
+      "heatmap": "",
+      "host_http_tile": null,
+      "host_tile": null,
+      "icon": "bi bi-compass",
+      "icon_size": "50px",
+      "json_tile": null,
+      "label_font_size": "14px",
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_tile": null,
+      "parameter": "test1015",
+      "parameter_equation_tile": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_tile": null,
+      "port_http_tile": null,
+      "port_tile": null,
+      "req_body_tile": null,
+      "rows": 3,
+      "ssl_tile": null,
+      "text": "R5 Temp",
+      "topic_tile": null,
+      "type": "Random",
+      "unit_type": "None",
+      "username_tile": null,
+      "value_font_size": "40px",
+      "x": 20,
+      "y": 0
+     },
+     {
+      "backgroundcolor": "linear-gradient(132deg, #F4D03F 0%, #16A085 100%)",
+      "client_id_tile": null,
+      "cols": 5,
+      "communication_channel_tile": null,
+      "constant_tile": 37,
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_tile": null,
+      "decimal_point": null,
+      "device": "MG2GFRP4",
+      "device_equation_tile": null,
+      "equation_textarea_tile": null,
+      "gauge": "",
+      "graph": "",
+      "grid_type": "tile1",
+      "heatmap": "",
+      "host_http_tile": null,
+      "host_tile": null,
+      "json_tile": null,
+      "label_font_size": "14px",
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_tile": null,
+      "parameter": "test1015",
+      "parameter_equation_tile": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_tile": null,
+      "port_http_tile": null,
+      "port_tile": null,
+      "req_body_tile": null,
+      "rows": 3,
+      "ssl_tile": null,
+      "text": "R1 Temp",
+      "topic_tile": null,
+      "type": "Random",
+      "unit_type": "Default",
+      "username_tile": null,
+      "value_font_size": "40px",
+      "x": 0,
+      "y": 3
+     },
+     {
+      "backgroundcolor": "linear-gradient(0deg, #08AEEA 0%, #2AF598 100%)",
+      "client_id_tile": null,
+      "cols": 5,
+      "communication_channel_tile": null,
+      "constant_tile": 18,
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_tile": null,
+      "decimal_point": null,
+      "device": "MG2GFRP5",
+      "device_equation_tile": null,
+      "equation_textarea_tile": null,
+      "gauge": "",
+      "graph": "",
+      "grid_type": "tile1",
+      "heatmap": "",
+      "host_http_tile": null,
+      "host_tile": null,
+      "json_tile": null,
+      "label_font_size": "14px",
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_tile": null,
+      "parameter": "P1",
+      "parameter_equation_tile": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_tile": null,
+      "port_http_tile": null,
+      "port_tile": null,
+      "req_body_tile": null,
+      "rows": 3,
+      "ssl_tile": null,
+      "text": "temperature",
+      "topic_tile": null,
+      "type": "Random",
+      "unit_type": "Default",
+      "username_tile": null,
+      "value_font_size": "40px",
+      "x": 10,
+      "y": 3
+     },
+     {
+      "backgroundcolor": "linear-gradient(147deg, #FFE53B 0%, #FF2525 74%)",
+      "client_id_tile": null,
+      "cols": 5,
+      "communication_channel_tile": null,
+      "constant_tile": 95,
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_tile": null,
+      "decimal_point": null,
+      "device": "MG2GFRP1",
+      "device_equation_tile": null,
+      "equation_textarea_tile": null,
+      "gauge": "",
+      "graph": "",
+      "grid_type": "tile1",
+      "heatmap": "",
+      "host_http_tile": null,
+      "host_tile": null,
+      "json_tile": null,
+      "label_font_size": "14px",
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_tile": null,
+      "parameter": "P1",
+      "parameter_equation_tile": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_tile": null,
+      "port_http_tile": null,
+      "port_tile": null,
+      "req_body_tile": null,
+      "rows": 3,
+      "ssl_tile": null,
+      "text": "temperature",
+      "topic_tile": null,
+      "type": "Random",
+      "unit_type": "Default",
+      "username_tile": null,
+      "value_font_size": "40px",
+      "x": 20,
+      "y": 3
+     },
+     {
+      "backgroundcolor": "var(--bs-body-bg)",
+      "chart_reset": false,
+      "client_id_chart": null,
+      "cols": 10,
+      "communication_channel_chart": null,
+      "constant_dial": [
+      ],
+      "constant_graph": [
+       "",
+       "",
+       87
+      ],
+      "constant_tile": "",
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_graph": [
+       "",
+       "",
+       ""
+      ],
+      "device": [
+       "MG2GFRP92",
+       "MG2GFRP92",
+       "MG2GFRP4"
+      ],
+      "device_equation_chart": null,
+      "equation_textarea_chart": null,
+      "gauge": "",
+      "graph": {
+       "chart": {
+        "backgroundColor": "var(--bs-body-bg)",
+        "renderTo": "scatter",
+        "type": "line"
+       },
+       "credits": {
+        "enabled": false
+       },
+       "exporting": {
+        "enabled": false
+       },
+       "lineWidth": 0,
+       "plotOptions": {
+        "series": {
+         "marker": {
+          "enabled": true,
+          "radius": 7
+         },
+         "turboThreshold": 0
+        }
+       },
+       "responsive": {
+        "rules": [
+         {
+          "chartOptions": {
+           "legend": {
+            "align": "center",
+            "layout": "horizontal",
+            "verticalAlign": "bottom"
+           }
+          },
+          "condition": {
+           "maxWidth": 10000
+          },
+          "_id": "highcharts-wpvsp3g-63"
+         }
+        ]
+       },
+       "series": [
+        {
+         "data": [
+          [
+           1704115213698,
+           84
+          ],
+          [
+           1704115216760,
+           81
+          ],
+          [
+           1704115219713,
+           21
+          ],
+          [
+           1704115222775,
+           89
+          ],
+          [
+           1704115225732,
+           100
+          ],
+          [
+           1704115228755,
+           4
+          ],
+          [
+           1704115231720,
+           98
+          ],
+          [
+           1704115234689,
+           25
+          ],
+          [
+           1704115237771,
+           16
+          ],
+          [
+           1704115240690,
+           99
+          ],
+          [
+           1704115243762,
+           7
+          ]
+         ],
+         "name": "test1015"
+        },
+        {
+         "data": [
+          [
+           1704115216760,
+           26
+          ],
+          [
+           1704115219713,
+           49
+          ],
+          [
+           1704115222775,
+           26
+          ],
+          [
+           1704115225732,
+           16
+          ],
+          [
+           1704115228755,
+           78
+          ],
+          [
+           1704115231720,
+           53
+          ],
+          [
+           1704115234689,
+           97
+          ],
+          [
+           1704115237771,
+           36
+          ],
+          [
+           1704115240690,
+           87
+          ],
+          [
+           1704115243762,
+           36
+          ]
+         ],
+         "name": "test1015"
+        },
+        {
+         "data": [
+          [
+           1704115216760,
+           93
+          ],
+          [
+           1704115219713,
+           57
+          ],
+          [
+           1704115222775,
+           54
+          ],
+          [
+           1704115225732,
+           64
+          ],
+          [
+           1704115228755,
+           62
+          ],
+          [
+           1704115231720,
+           85
+          ],
+          [
+           1704115234689,
+           49
+          ],
+          [
+           1704115237771,
+           28
+          ],
+          [
+           1704115240690,
+           99
+          ],
+          [
+           1704115243762,
+           6
+          ]
+         ],
+         "name": "p1"
+        }
+       ],
+       "subTitle": {
+        "text": ""
+       },
+       "title": {
+        "style": {
+         "color": "var(--bs-body-color)"
+        },
+        "text": "temperature"
+       },
+       "xAxis": {
+        "labels": {
+         "style": {
+          "color": "var(--bs-body-color)"
+         }
+        },
+        "title": {
+         "text": null
+        },
+        "type": "datetime"
+       },
+       "yAxis": {
+        "labels": {
+         "style": {
+          "color": "var(--bs-body-color)"
+         }
+        },
+        "title": {
+         "text": null
+        }
+       }
+      },
+      "grid_type": "chart",
+      "heatmap": "",
+      "host_chart": null,
+      "host_http_chart": null,
+      "icon": "",
+      "icon_size": "",
+      "json_chart": null,
+      "label_font_size": [
+       "",
+       "",
+       ""
+      ],
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_chart": null,
+      "parameter": [
+       "test1015",
+       "test1015",
+       "p1"
+      ],
+      "parameter_equation_chart": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_chart": null,
+      "port_chart": null,
+      "port_http_chart": null,
+      "req_body_chart": null,
+      "rows": 7,
+      "ssl_chart": null,
+      "text": [
+       "temperature",
+       "  ",
+       " "
+      ],
+      "topic_chart": null,
+      "type": [
+       "Random",
+       "Random",
+       "Random"
+      ],
+      "unit_type": [
+       "None",
+       "Default",
+       "None"
+      ],
+      "username_chart": null,
+      "value_font_size": [
+       "",
+       "",
+       ""
+      ],
+      "x": 0,
+      "y": 11
+     },
+     {
+      "backgroundcolor": "var(--bs-body-bg)",
+      "chart_reset": true,
+      "client_id_chart": null,
+      "cols": 9,
+      "communication_channel_chart": null,
+      "constant_dial": [
+      ],
+      "constant_graph": [
+       "",
+       ""
+      ],
+      "constant_tile": "",
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_graph": [
+       "",
+       ""
+      ],
+      "device": [
+       "MG2GFRP92",
+       "MG2GFRP92"
+      ],
+      "device_equation_chart": null,
+      "equation_textarea_chart": null,
+      "gauge": "",
+      "graph": {
+       "chart": {
+        "backgroundColor": "var(--bs-body-bg)",
+        "renderTo": "scatter",
+        "type": "bar"
+       },
+       "credits": {
+        "enabled": false
+       },
+       "exporting": {
+        "enabled": false
+       },
+       "lineWidth": 0,
+       "plotOptions": {
+        "series": {
+         "marker": {
+          "enabled": true,
+          "radius": 7
+         },
+         "turboThreshold": 0
+        }
+       },
+       "responsive": {
+        "rules": [
+         {
+          "chartOptions": {
+           "legend": {
+            "align": "center",
+            "layout": "horizontal",
+            "verticalAlign": "bottom"
+           }
+          },
+          "condition": {
+           "maxWidth": 10000
+          },
+          "_id": "highcharts-wpvsp3g-145"
+         }
+        ]
+       },
+       "series": [
+        {
+         "data": [
+          [
+           1704115213698,
+           82
+          ],
+          [
+           1704115216760,
+           71
+          ],
+          [
+           1704115219713,
+           83
+          ],
+          [
+           1704115222775,
+           53
+          ],
+          [
+           1704115225732,
+           34
+          ],
+          [
+           1704115228755,
+           70
+          ],
+          [
+           1704115231720,
+           71
+          ],
+          [
+           1704115234689,
+           16
+          ],
+          [
+           1704115237771,
+           98
+          ],
+          [
+           1704115240690,
+           44
+          ],
+          [
+           1704115243762,
+           2
+          ]
+         ],
+         "name": "test1015"
+        },
+        {
+         "data": [
+          [
+           1704115216760,
+           22
+          ],
+          [
+           1704115219713,
+           50
+          ],
+          [
+           1704115222775,
+           32
+          ],
+          [
+           1704115225732,
+           31
+          ],
+          [
+           1704115228755,
+           68
+          ],
+          [
+           1704115231720,
+           11
+          ],
+          [
+           1704115234689,
+           20
+          ],
+          [
+           1704115237771,
+           45
+          ],
+          [
+           1704115240690,
+           75
+          ],
+          [
+           1704115243762,
+           20
+          ]
+         ],
+         "name": "test1015"
+        }
+       ],
+       "subTitle": {
+        "text": ""
+       },
+       "title": {
+        "style": {
+         "color": "var(--bs-body-color)"
+        },
+        "text": "temperature"
+       },
+       "xAxis": {
+        "labels": {
+         "style": {
+          "color": "var(--bs-body-color)"
+         }
+        },
+        "title": {
+         "text": null
+        },
+        "type": "datetime"
+       },
+       "yAxis": {
+        "labels": {
+         "style": {
+          "color": "var(--bs-body-color)"
+         }
+        },
+        "title": {
+         "text": null
+        }
+       }
+      },
+      "grid_type": "chart1",
+      "heatmap": "",
+      "host_chart": null,
+      "host_http_chart": null,
+      "icon": "",
+      "icon_size": "",
+      "json_chart": null,
+      "label_font_size": [
+       "",
+       ""
+      ],
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_chart": null,
+      "parameter": [
+       "test1015",
+       "test1015"
+      ],
+      "parameter_equation_chart": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_chart": null,
+      "port_chart": null,
+      "port_http_chart": null,
+      "req_body_chart": null,
+      "rows": 7,
+      "ssl_chart": null,
+      "text": [
+       "temperature",
+       "temperature"
+      ],
+      "topic_chart": null,
+      "type": [
+       "Random",
+       "Random"
+      ],
+      "unit_type": [
+       "None",
+       "None"
+      ],
+      "username_chart": null,
+      "value_font_size": [
+       "",
+       ""
+      ],
+      "x": 16,
+      "y": 11
+     },
+     {
+      "backgroundcolor": "var(--bs-body-bg)",
+      "center_lat": 1,
+      "center_lat_map": 1,
+      "center_lng_map": 1,
+      "center_long": 1,
+      "client_id_map": null,
+      "cols": 10,
+      "communication_channel_map": null,
+      "constant_dial": "",
+      "constant_tile": "",
+      "const_latitude": [
+       5,
+       "",
+       ""
+      ],
+      "const_longitude": [
+       9,
+       "",
+       ""
+      ],
+      "decimal_point": "",
+      "device": [
+       "MG2GFRP92",
+       "MG2GFRP92",
+       "MG2GFRP92"
+      ],
+      "device_equation_map": null,
+      "equation_textarea_map": null,
+      "gauge": "",
+      "graph": "",
+      "grid_type": "map",
+      "heatmap": "",
+      "host_http_map": null,
+      "host_map": null,
+      "icon": "",
+      "icon_size": "",
+      "label_font_size": [
+       null,
+       null,
+       null
+      ],
+      "map": [
+       {
+        "device": "MG2GFRP92",
+        "lat": 5,
+        "lng": 9
+       },
+       {
+        "device": "MG2GFRP92",
+        "lat": 33,
+        "lng": 33
+       },
+       {
+        "device": "MG2GFRP92",
+        "lat": 12.9716,
+        "lng": 77.5959
+       }
+      ],
+      "mapMarker_type": "./assets/media/CustomMarker1.png",
+      "method_map": null,
+      "parameter": [
+       "test1015",
+       "test1015",
+       "test1015"
+      ],
+      "parameter_equation_map": null,
+      "parameter_latitude": [
+       "",
+       "test1015",
+       ""
+      ],
+      "parameter_longitude": [
+       "",
+       "testEQk",
+       ""
+      ],
+      "password_map": null,
+      "port_http_map": null,
+      "port_map": null,
+      "req_body_map": null,
+      "rows": 7,
+      "ssl_map": null,
+      "text": [
+       "maps",
+       " type",
+       "1"
+      ],
+      "topic_map": null,
+      "type": [
+       "Constant",
+       "Live",
+       "Device"
+      ],
+      "unit_type": "",
+      "username_map": null,
+      "value_font_size": [
+       null,
+       null,
+       null
+      ],
+      "x": 0,
+      "y": 18,
+      "zoom_map": 1
+     },
+     {
+      "backgroundcolor": "var(--bs-body-bg)",
+      "client_id_chart": null,
+      "cols": 6,
+      "communication_channel_chart": null,
+      "constant_dial": [
+      ],
+      "constant_graph": [
+       "",
+       "",
+       ""
+      ],
+      "constant_tile": "",
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_graph": [
+       "",
+       "",
+       ""
+      ],
+      "device": [
+       "MG2GFRP92",
+       "MG2GFRP92",
+       "MG2GFRP92"
+      ],
+      "device_equation_chart": null,
+      "equation_textarea_chart": null,
+      "gauge": "",
+      "graph": {
+       "chart": {
+        "backgroundColor": "var(--bs-body-bg)",
+        "type": "pie"
+       },
+       "credits": {
+        "enabled": false
+       },
+       "exporting": {
+        "enabled": false
+       },
+       "plotOptions": {
+        "series": {
+         "allowPointSelect": true,
+         "cursor": "pointer",
+         "dataLabels": [
+          {
+           "distance": 20,
+           "enabled": true
+          },
+          {
+           "distance": -40,
+           "enabled": true,
+           "filter": {
+            "operator": ">",
+            "property": "percentage",
+            "value": 10
+           },
+           "format": "{point.percentage:.1f}%",
+           "style": {
+            "fontSize": "1.2em",
+            "opacity": 0.7,
+            "textOutline": "none"
+           }
+          }
+         ],
+         "showInLegend": "true"
+        }
+       },
+       "series": [
+        {
+         "colorByPoint": true,
+         "data": [
+          {
+           "name": "test1015",
+           "y": 6
+          },
+          {
+           "name": "test1015",
+           "y": 11
+          },
+          {
+           "name": "test1015",
+           "selected": false,
+           "sliced": false,
+           "y": 12
+          }
+         ],
+         "name": "Percentage"
+        }
+       ],
+       "title": {
+        "style": {
+         "color": "var(--bs-body-color)"
+        },
+        "text": "temperature"
+       },
+       "tooltip": {
+        "valueSuffix": "%"
+       }
+      },
+      "grid_type": "chart2",
+      "heatmap": "",
+      "host_chart": null,
+      "host_http_chart": null,
+      "icon": "",
+      "icon_size": "",
+      "json_chart": null,
+      "label_font_size": [
+       "",
+       "",
+       ""
+      ],
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_chart": null,
+      "parameter": [
+       "test1015",
+       "test1015",
+       "test1015"
+      ],
+      "parameter_equation_chart": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_chart": null,
+      "port_chart": null,
+      "port_http_chart": null,
+      "req_body_chart": null,
+      "rows": 7,
+      "ssl_chart": null,
+      "text": [
+       "temperature",
+       " pressure",
+       " air"
+      ],
+      "topic_chart": null,
+      "type": [
+       "Random",
+       "Random",
+       "Random"
+      ],
+      "unit_type": [
+       "None",
+       "None",
+       "None"
+      ],
+      "username_chart": null,
+      "value_font_size": [
+       "",
+       "",
+       ""
+      ],
+      "x": 10,
+      "y": 11
+     },
+     {
+      "all_datas_list": [
+       {
+        "date": null,
+        "parameter": "8",
+        "value": 66
+       },
+       {
+        "date": null,
+        "parameter": "testEQk",
+        "value": 9
+       },
+       {
+        "date": null,
+        "parameter": "testEQk",
+        "value": 100
+       },
+       {
+        "date": null,
+        "parameter": "p1",
+        "value": 90
+       }
+      ],
+      "backgroundcolor": "var(--bs-body-bg)",
+      "client_id_table": null,
+      "cols": 11,
+      "col_visibility": [
+       "SL.No",
+       "Value",
+       "Device",
+       "Parameter Label"
+      ],
+      "communication_channel_table": null,
+      "constant_dial": [
+      ],
+      "constant_table": [
+       "",
+       "",
+       null,
+       null
+      ],
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit": [
+       null
+      ],
+      "decimal_point": "",
+      "device": [
+       "system_info_ibm_reso",
+       "MG2GFRP92",
+       "MG2GFRP92",
+       "MG2GFRP4"
+      ],
+      "device_equation_table": null,
+      "equation_textarea_table": null,
+      "gauge": "",
+      "graph": "",
+      "grid_type": "table",
+      "heatmap": "",
+      "host_http_table": null,
+      "host_table": null,
+      "icon": "",
+      "icon_size": "",
+      "info": true,
+      "json_table": null,
+      "label_font_size": [
+       "",
+       null,
+       null,
+       null
+      ],
+      "label_table": [
+       null
+      ],
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_table": null,
+      "mx_c": [
+       null
+      ],
+      "m_value": [
+       null
+      ],
+      "paging": true,
+      "parameter": [
+       "8",
+       "testEQk",
+       "testEQk",
+       "p1"
+      ],
+      "parameter_equation_table": "",
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_table": null,
+      "port_http_table": null,
+      "port_table": null,
+      "req_body_table": null,
+      "rows": 7,
+      "search": true,
+      "ssl_table": null,
+      "text": "",
+      "text_table": [
+       "temperature",
+       "weight",
+       " ",
+       " "
+      ],
+      "title": "table type1",
+      "title_table": null,
+      "topic_table": null,
+      "type": [
+       "Random",
+       "Random",
+       "Random",
+       "Random"
+      ],
+      "unit_type": [
+       "None",
+       "Default",
+       "None",
+       "None"
+      ],
+      "username_table": null,
+      "value_font_size": [
+       "",
+       null,
+       null,
+       null
+      ],
+      "value_table": [
+       null
+      ],
+      "v_value": [
+       null
+      ],
+      "x": 10,
+      "y": 18
+     },
+     {
+      "backgroundcolor": "rgba(239, 235, 242, 0)",
+      "client_id_button": null,
+      "cols": 4,
+      "communication_channel_button": null,
+      "constant_tile": "",
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom": null,
+      "custom_unit_tile": "",
+      "decimal_point": "",
+      "device": "",
+      "device_equation_button": null,
+      "dreamboard_id": " ",
+      "equation_textarea_button": null,
+      "font_color": "#dbcd39",
+      "gauge": "",
+      "graph": "",
+      "grid_type": "button",
+      "heatmap": "",
+      "host_button": null,
+      "host_http_button": null,
+      "icon": "fa fa-rocket",
+      "icon_size": "20px",
+      "json_tile": null,
+      "label_font_size": "20px",
+      "magicboard_id": "demo",
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_button": null,
+      "parameter": "",
+      "parameter_equation_button": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_button": null,
+      "port_button": null,
+      "port_http_button": null,
+      "powerboard_id": " ",
+      "req_body_button": null,
+      "rows": 3,
+      "ssl_button": null,
+      "text": "to magic board",
+      "topic_button": null,
+      "type": "magicboard",
+      "unit_type": "Telesto",
+      "username_button": null,
+      "value_font_size": "20px",
+      "x": 21,
+      "y": 18
+     },
+     {
+      "backgroundcolor": "linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%)",
+      "client_id_tile": null,
+      "cols": 5,
+      "communication_channel_tile": null,
+      "constant_tile": 19,
+      "constant_tile1": 350,
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_tile": null,
+      "decimal_point": null,
+      "device": "MG2GFRP92",
+      "device1": "MG2GFRP92",
+      "device_equation_tile": null,
+      "equation_textarea_tile": null,
+      "gauge": "",
+      "graph": "",
+      "grid_type": "tile2",
+      "heatmap": "",
+      "host_http_tile": null,
+      "host_tile": null,
+      "json_tile": null,
+      "label_font_size": "14px",
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_tile": null,
+      "parameter": "test1015",
+      "parameter1": "test1015",
+      "parameter_equation_tile": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_tile": null,
+      "port_http_tile": null,
+      "port_tile": null,
+      "req_body_tile": null,
+      "rows": 3,
+      "ssl_tile": null,
+      "text": "Production Count",
+      "topic_tile": null,
+      "type": "Random",
+      "type1": "Constant1",
+      "unit_type": "None",
+      "username_tile": null,
+      "value_font_size": "40px",
+      "x": 5,
+      "y": 3
+     },
+     {
+      "backgroundcolor": "linear-gradient(180deg, #52ACFF 25%, #FFE32C 100%)",
+      "client_id_tile": null,
+      "cols": 5,
+      "communication_channel_tile": null,
+      "constant_tile": 78,
+      "constant_tile1": 230,
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_tile": null,
+      "decimal_point": null,
+      "device": "MG2GFRP92",
+      "device1": "MG2GFRP92",
+      "device_equation_tile": null,
+      "equation_textarea_tile": null,
+      "gauge": "",
+      "graph": "",
+      "grid_type": "tile2",
+      "heatmap": "",
+      "host_http_tile": null,
+      "host_tile": null,
+      "json_tile": null,
+      "label_font_size": "14px",
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_tile": null,
+      "parameter": "test1015",
+      "parameter1": "test1015",
+      "parameter_equation_tile": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_tile": null,
+      "port_http_tile": null,
+      "port_tile": null,
+      "req_body_tile": null,
+      "rows": 3,
+      "ssl_tile": null,
+      "text": "no of tasks",
+      "topic_tile": null,
+      "type": "Random",
+      "type1": "Constant1",
+      "unit_type": "Default",
+      "username_tile": null,
+      "value_font_size": "40px",
+      "x": 15,
+      "y": 3
+     },
+     {
+      "backgroundcolor": "var(--bs-body-bg)",
+      "client_id_dial": null,
+      "cols": 5,
+      "communication_channel_dial": null,
+      "constant_dial": null,
+      "constant_tile": "",
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_dial": null,
+      "decimal_point": null,
+      "device": "MG2GFRP92",
+      "device_equation_dial": null,
+      "equation_textarea_dial": null,
+      "gauge": {
+       "chart": {
+        "backgroundColor": "var(--bs-body-bg)",
+        "plotBackgroundColor": null,
+        "plotBackgroundImage": null,
+        "plotBorderWidth": 0,
+        "plotShadow": false,
+        "type": "gauge"
+       },
+       "credits": {
+        "enabled": false
+       },
+       "exporting": {
+        "enabled": false
+       },
+       "pane": {
+        "background": null,
+        "center": [
+         "50%",
+         "75%"
+        ],
+        "endAngle": 89.9,
+        "size": "110%",
+        "startAngle": -90
+       },
+       "series": [
+        {
+         "data": [
+          45
+         ],
+         "dataLabels": {
+          "borderWidth": 0,
+          "format": "{y} ",
+          "style": {
+           "color": "var(--bs-body-color)",
+           "fontSize": "16px"
+          }
+         },
+         "dial": {
+          "backgroundColor": "gray",
+          "baseLength": "0%",
+          "baseWidth": 12,
+          "radius": "80%",
+          "rearLength": "0%"
+         },
+         "name": null,
+         "pivot": {
+          "backgroundColor": "gray",
+          "radius": 6
+         },
+         "tooltip": {
+          "valueSuffix": ""
+         }
+        }
+       ],
+       "title": {
+        "style": {
+         "color": "var(--bs-body-color)",
+         "font-size": 14,
+         "fontSize": "16px"
+        },
+        "text": "temperature"
+       },
+       "yAxis": {
+        "labels": {
+         "distance": 20,
+         "style": {
+          "color": "var(--bs-body-color)",
+          "fontSize": "14px"
+         }
+        },
+        "lineWidth": 0,
+        "max": 200,
+        "min": 0,
+        "minorTickInterval": null,
+        "plotBands": [
+         {
+          "color": "#55BF3B",
+          "from": 0,
+          "thickness": 20,
+          "to": 120
+         },
+         {
+          "color": "#DDDF0D",
+          "from": 120,
+          "thickness": 20,
+          "to": 160
+         },
+         {
+          "color": "#DF5353",
+          "from": 160,
+          "thickness": 20,
+          "to": 200
+         }
+        ],
+        "tickColor": "#FFFFFF",
+        "tickLength": 20,
+        "tickPixelInterval": 72,
+        "tickPosition": "inside",
+        "tickWidth": 2
+       }
+      },
+      "graph": "",
+      "grid_type": "gauge2",
+      "heatmap": "",
+      "host_dial": null,
+      "host_http_dial": null,
+      "icon": "",
+      "icon_size": "",
+      "json_dial": null,
+      "label_font_size": 14,
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_dial": null,
+      "parameter": "test1015",
+      "parameter_equation_dial": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_dial": null,
+      "port_dial": null,
+      "port_http_dial": null,
+      "req_body_dial": null,
+      "rows": 5,
+      "ssl_dial": null,
+      "text": "temperature",
+      "topic_dial": null,
+      "type": "Random",
+      "unit_type": "None",
+      "username_dial": null,
+      "value_font_size": null,
+      "x": 20,
+      "y": 6
+     },
+     {
+      "backgroundcolor": "var(--bs-body-bg)",
+      "client_id_dial": null,
+      "cols": 5,
+      "communication_channel_dial": null,
+      "constant_dial": null,
+      "constant_tile": "",
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_dial": null,
+      "decimal_point": null,
+      "device": "MG2GFRP92",
+      "device_equation_dial": null,
+      "equation_textarea_dial": null,
+      "gauge": {
+       "chart": {
+        "backgroundColor": "var(--bs-body-bg)",
+        "type": "solidgauge"
+       },
+       "credits": {
+        "enabled": false
+       },
+       "exporting": {
+        "enabled": false
+       },
+       "pane": {
+        "background": {
+         "backgroundColor": "#eeeeee",
+         "borderWidth": 0,
+         "innerRadius": "75%",
+         "outerRadius": "100%",
+         "shape": "arc"
+        },
+        "endAngle": 120,
+        "size": "100%",
+        "startAngle": -120
+       },
+       "plotOptions": {
+        "solidgauge": {
+         "dataLabels": {
+          "borderWidth": 0,
+          "useHTML": true,
+          "y": -25
+         },
+         "innerRadius": "75%",
+         "radius": "100%"
+        }
+       },
+       "series": [
+        {
+         "data": [
+          9
+         ],
+         "dataLabels": {
+          "format": "<div style=\"text-align: center\"><span style=\"font-size: 1.25rem\">{y}</span></div>",
+          "style": {
+           "color": "var(--bs-body-color)"
+          }
+         },
+         "name": null
+        }
+       ],
+       "title": {
+        "style": {
+         "color": "var(--bs-body-color)",
+         "font-size": 14
+        },
+        "text": "temperature"
+       },
+       "tooltip": {
+        "enabled": false
+       },
+       "yAxis": {
+        "labels": {
+         "style": {
+          "color": "var(--bs-body-color)"
+         },
+         "y": 16
+        },
+        "max": 100,
+        "min": 0,
+        "minorTickInterval": null,
+        "stops": [
+         [
+          0.1,
+          "#55BF3B"
+         ],
+         [
+          0.5,
+          "#DDDF0D"
+         ],
+         [
+          0.9,
+          "#FF0000"
+         ]
+        ],
+        "tickInterval": 0
+       }
+      },
+      "graph": "",
+      "grid_type": "gauge",
+      "heatmap": "",
+      "host_dial": null,
+      "host_http_dial": null,
+      "icon": "",
+      "icon_size": "",
+      "json_dial": null,
+      "label_font_size": 14,
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_dial": null,
+      "parameter": "test1015",
+      "parameter_equation_dial": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_dial": null,
+      "port_dial": null,
+      "port_http_dial": null,
+      "req_body_dial": null,
+      "rows": 5,
+      "ssl_dial": null,
+      "text": "temperature",
+      "topic_dial": null,
+      "type": "Random",
+      "unit_type": "Default",
+      "username_dial": null,
+      "value_font_size": null,
+      "x": 15,
+      "y": 6
+     },
+     {
+      "backgroundcolor": "var(--bs-body-bg)",
+      "client_id_dial": null,
+      "cols": 5,
+      "communication_channel_dial": null,
+      "constant_dial": null,
+      "constant_tile": "",
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_dial": null,
+      "decimal_point": null,
+      "device": "MG2GFRP92",
+      "device_equation_dial": null,
+      "equation_textarea_dial": null,
+      "gauge": {
+       "chart": {
+        "backgroundColor": "var(--bs-body-bg)",
+        "type": "solidgauge"
+       },
+       "credits": {
+        "enabled": false
+       },
+       "exporting": {
+        "enabled": false
+       },
+       "pane": {
+        "background": {
+         "backgroundColor": "#eeeeee",
+         "borderWidth": 0,
+         "innerRadius": "75%",
+         "outerRadius": "100%",
+         "shape": "arc"
+        },
+        "endAngle": 120,
+        "size": "100%",
+        "startAngle": -120
+       },
+       "plotOptions": {
+        "solidgauge": {
+         "dataLabels": {
+          "borderWidth": 0,
+          "useHTML": true,
+          "y": -25
+         },
+         "innerRadius": "75%",
+         "radius": "100%"
+        }
+       },
+       "series": [
+        {
+         "data": [
+          51
+         ],
+         "dataLabels": {
+          "format": "<div style=\"text-align: center\"><span style=\"font-size: 1.25rem\">{y}</span></div>",
+          "style": {
+           "color": "var(--bs-body-color)"
+          }
+         },
+         "name": null
+        }
+       ],
+       "title": {
+        "style": {
+         "color": "var(--bs-body-color)",
+         "font-size": 14
+        },
+        "text": "my tasks"
+       },
+       "tooltip": {
+        "enabled": false
+       },
+       "yAxis": {
+        "labels": {
+         "style": {
+          "color": "var(--bs-body-color)"
+         },
+         "y": 16
+        },
+        "max": 100,
+        "min": 0,
+        "minorTickInterval": null,
+        "stops": [
+         [
+          0.1,
+          "#55BF3B"
+         ],
+         [
+          0.5,
+          "#DDDF0D"
+         ],
+         [
+          0.9,
+          "#FF0000"
+         ]
+        ],
+        "tickInterval": 0
+       }
+      },
+      "graph": "",
+      "grid_type": "gauge",
+      "heatmap": "",
+      "host_dial": null,
+      "host_http_dial": null,
+      "icon": "",
+      "icon_size": "",
+      "json_dial": null,
+      "label_font_size": 14,
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_dial": null,
+      "parameter": "test1015",
+      "parameter_equation_dial": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_dial": null,
+      "port_dial": null,
+      "port_http_dial": null,
+      "req_body_dial": null,
+      "rows": 5,
+      "ssl_dial": null,
+      "text": "my tasks",
+      "topic_dial": null,
+      "type": "Random",
+      "unit_type": "Power",
+      "username_dial": null,
+      "value_font_size": null,
+      "x": 5,
+      "y": 6
+     },
+     {
+      "backgroundcolor": "var(--bs-body-bg)",
+      "client_id_dial": null,
+      "cols": 5,
+      "communication_channel_dial": null,
+      "constant_dial": 300,
+      "constant_tile": "",
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_dial": null,
+      "decimal_point": null,
+      "device": "MG2GFRP92",
+      "device_equation_dial": null,
+      "equation_textarea_dial": null,
+      "gauge": {
+       "chart": {
+        "backgroundColor": "var(--bs-body-bg)",
+        "plotBackgroundColor": null,
+        "plotBackgroundImage": null,
+        "plotBorderWidth": 0,
+        "plotShadow": false,
+        "type": "gauge"
+       },
+       "credits": {
+        "enabled": false
+       },
+       "exporting": {
+        "enabled": false
+       },
+       "pane": {
+        "background": null,
+        "center": [
+         "50%",
+         "75%"
+        ],
+        "endAngle": 89.9,
+        "size": "110%",
+        "startAngle": -90
+       },
+       "series": [
+        {
+         "data": [
+          29
+         ],
+         "dataLabels": {
+          "borderWidth": 0,
+          "format": "{y} ",
+          "style": {
+           "color": "var(--bs-body-color)",
+           "fontSize": "16px"
+          }
+         },
+         "dial": {
+          "backgroundColor": "gray",
+          "baseLength": "0%",
+          "baseWidth": 12,
+          "radius": "80%",
+          "rearLength": "0%"
+         },
+         "name": null,
+         "pivot": {
+          "backgroundColor": "gray",
+          "radius": 6
+         },
+         "tooltip": {
+          "valueSuffix": ""
+         }
+        }
+       ],
+       "title": {
+        "style": {
+         "color": "var(--bs-body-color)",
+         "font-size": 14,
+         "fontSize": "16px"
+        },
+        "text": "temperature"
+       },
+       "yAxis": {
+        "labels": {
+         "distance": 20,
+         "style": {
+          "color": "var(--bs-body-color)",
+          "fontSize": "14px"
+         }
+        },
+        "lineWidth": 0,
+        "max": 200,
+        "min": 0,
+        "minorTickInterval": null,
+        "plotBands": [
+         {
+          "color": "#55BF3B",
+          "from": 0,
+          "thickness": 20,
+          "to": 120
+         },
+         {
+          "color": "#DDDF0D",
+          "from": 120,
+          "thickness": 20,
+          "to": 160
+         },
+         {
+          "color": "#DF5353",
+          "from": 160,
+          "thickness": 20,
+          "to": 200
+         }
+        ],
+        "tickColor": "#FFFFFF",
+        "tickLength": 20,
+        "tickPixelInterval": 72,
+        "tickPosition": "inside",
+        "tickWidth": 2
+       }
+      },
+      "graph": "",
+      "grid_type": "gauge2",
+      "heatmap": "",
+      "host_dial": null,
+      "host_http_dial": null,
+      "icon": "",
+      "icon_size": "",
+      "json_dial": null,
+      "label_font_size": 14,
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_dial": null,
+      "parameter": "test1015",
+      "parameter_equation_dial": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_dial": null,
+      "port_dial": null,
+      "port_http_dial": null,
+      "req_body_dial": null,
+      "rows": 5,
+      "ssl_dial": null,
+      "text": "temperature",
+      "topic_dial": null,
+      "type": "Random",
+      "unit_type": "None",
+      "username_dial": null,
+      "value_font_size": null,
+      "x": 0,
+      "y": 6
+     },
+     {
+      "backgroundcolor": "var(--bs-body-bg)",
+      "client_id_dial": null,
+      "cols": 5,
+      "communication_channel_dial": null,
+      "constant_dial": null,
+      "constant_tile": "",
+      "const_latitude": "",
+      "const_longitude": "",
+      "custom_unit_dial": null,
+      "decimal_point": null,
+      "device": "MG2GFRP92",
+      "device_equation_dial": null,
+      "equation_textarea_dial": null,
+      "gauge": {
+       "chart": {
+        "backgroundColor": "var(--bs-body-bg)",
+        "type": "solidgauge"
+       },
+       "credits": {
+        "enabled": false
+       },
+       "exporting": {
+        "enabled": false
+       },
+       "pane": {
+        "background": {
+         "backgroundColor": "#eeeeee",
+         "borderWidth": 0,
+         "innerRadius": "75%",
+         "outerRadius": "100%",
+         "shape": "arc"
+        },
+        "endAngle": 120,
+        "size": "100%",
+        "startAngle": -120
+       },
+       "plotOptions": {
+        "solidgauge": {
+         "dataLabels": {
+          "borderWidth": 0,
+          "style": {
+           "color": "var(--bs-body-color)"
+          },
+          "y": 5
+         },
+         "innerRadius": "75%"
+        }
+       },
+       "series": [
+        {
+         "data": [
+          3
+         ],
+         "dataLabels": {
+          "format": "<span style=\"font-size:25px;\">{y} </span><span style=\"font-size:16px\">%</span><br><span style=\"color:silver\">Target: 2 %</span>",
+          "style": {
+           "color": "var(--bs-body-color)"
+          }
+         },
+         "name": "Svinn",
+         "threshold": 0,
+         "tooltip": {
+          "valueSuffix": " %"
+         }
+        }
+       ],
+       "title": {
+        "style": {
+         "color": "var(--bs-body-color)",
+         "font-size": 14
+        },
+        "text": "temperature"
+       },
+       "tooltip": {
+        "enabled": false
+       },
+       "xAxis": {
+        "labels": {
+         "enabled": true,
+         "style": {
+          "color": "var(--bs-body-color)"
+         }
+        }
+       },
+       "yAxis": {
+        "labels": {
+         "distance": 0.5,
+         "style": {
+          "color": "var(--bs-body-color)"
+         },
+         "y": 20
+        },
+        "lineWidth": 1,
+        "max": 4,
+        "min": -4,
+        "plotBands": [
+         {
+          "color": "#55BF3B",
+          "from": -4,
+          "outerRadius": "74%",
+          "to": 0
+         },
+         {
+          "color": "#DF5353",
+          "from": 0,
+          "outerRadius": "74%",
+          "to": 4
+         }
+        ],
+        "stops": [
+         [
+          0.4999,
+          "#55BF3B"
+         ],
+         [
+          0.5,
+          "#DF5353"
+         ]
+        ],
+        "tickAmount": 2,
+        "title": {
+         "style": {
+          "color": "var(--bs-body-color)"
+         },
+         "text": "Loss",
+         "y": 50
+        },
+        "zIndex": 4
+       }
+      },
+      "graph": "",
+      "grid_type": "gauge3",
+      "heatmap": "",
+      "host_dial": null,
+      "host_http_dial": null,
+      "icon": "",
+      "icon_size": "",
+      "json_dial": null,
+      "label_font_size": 14,
+      "map": [
+       {
+        "lat": 0,
+        "lng": 0
+       }
+      ],
+      "method_dial": null,
+      "parameter": "test1015",
+      "parameter_equation_dial": null,
+      "parameter_latitude": "",
+      "parameter_longitude": "",
+      "password_dial": null,
+      "port_dial": null,
+      "port_http_dial": null,
+      "req_body_dial": null,
+      "rows": 5,
+      "ssl_dial": null,
+      "text": "temperature",
+      "topic_dial": null,
+      "type": "Random",
+      "unit_type": "None",
+      "username_dial": null,
+      "value_font_size": null,
+      "x": 10,
+      "y": 6
+     }
+    ],
+    "name": "newddssddd123",
+    "rdt": "test_W/0_RDT",
+    "timer": "3",
+    "type": "Primary",
+    "updated": "2024-01-01T07:50:44.360Z",
+    "widget_type": null
+   }
